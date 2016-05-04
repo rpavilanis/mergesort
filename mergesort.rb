@@ -1,13 +1,13 @@
 def mergesort(a)
     # if the array size is 0|1 then the list is considered sorted, return sorted array
-    # split the list in half
+    # split the list into two halves
     # merge sort each half
     # combine the sorted halves
 end
 
 def split_array(a)
     # find the middle index
-    # split the array in half - take a look at take and drop in the ruby docs, or use ranges 
+    # split the array in half - take a look at take and drop in the ruby docs, or use ranges
     # return left and right halves of array as separate arrays - did you know a method can return multiple arrays? look it up
 end
 
