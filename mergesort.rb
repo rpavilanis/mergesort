@@ -14,11 +14,12 @@ end
 # precondition: a and b are sorted
 def combine(a, b)
     # create a results array
-    # counters pointing to the index of the smallest elements in each array
-    # check that we have elements to compare
+    # counters pointing to the index of the smallest elements in each array - you may not need to do this step if you use some fancy ruby methods
+    # check that we have elements to compare (neither array can be empty)
         # push the smaller element onto the result array
     # if there are elements left over in a, move them to result
     # if there are elements left over in b, move them to result
+    # return the results array
 end
 
 # TEST IT
